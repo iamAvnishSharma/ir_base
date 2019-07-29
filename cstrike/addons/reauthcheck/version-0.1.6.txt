@@ -1,0 +1,3 @@
+ReAuthCheck, 0.1.6
+date: March 08 2017
+url: https://goldsrc.ru/threads/22/
