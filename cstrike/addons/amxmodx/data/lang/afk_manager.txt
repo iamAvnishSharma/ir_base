@@ -1,0 +1,119 @@
+[en]
+AFK_GOT_BOMB = You got the bomb!
+AFK_TRANSFER_BOMB = Bomb transferred to "%s"
+AFK_TRANSFER_WARN = You have %i seconds to start playing or you will be transferred to the spectators.
+AFK_TRANSFER_PLAYER = Player "%s" was transferred to the spectators for being AFK.
+AFK_KICK_WARN = You have %i seconds to join a team or you will be kicked.
+AFK_KICK_PLAYER = Player "%s" was kicked for being AFK.
+AFK_KICK_REASON = You were kicked for being AFK.
+AFK_ACCESS_GRANTED = Access granted. You will not be kicked from the server.
+
+[de]
+AFK_GOT_BOMB = Du hast die Bombe!
+AFK_TRANSFER_BOMB = Bombe wurde transferiert zu "%s"
+AFK_TRANSFER_WARN = Du hast noch %i Sekunden Zeit um zu spielen oder du wirst zu den Spectator verschoben.
+AFK_TRANSFER_PLAYER = Spieler "%s" wurde zu den Spectator verschoben, weil er AFK war.
+AFK_KICK_WARN = Du hast noch %i Sekunden Zeit um einen Team zu joinen oder du wirst gekickt.
+AFK_KICK_PLAYER = Spieler "%s" wurde gekickt weil er AFK war.
+AFK_KICK_REASON = Du wurdest gekickt weil du AFK warst.
+AFK_ACCESS_GRANTED = Zugriff gewährt. Du wirst nicht vom Server gekickt.
+
+[es]
+AFK_GOT_BOMB = Tienes la bomba!
+AFK_TRANSFER_BOMB = La bomba ha sido transferida a "%s"
+AFK_TRANSFER_WARN = Tienes %i segundos para comenzar a jugar o seras transferido a los espectadores.
+AFK_TRANSFER_PLAYER = El jugador "%s" fue transferido a los espectadores por estar AFK.
+AFK_KICK_WARN = Tienes %i segundos para entrar en un equipo o seras expulsado.
+AFK_KICK_PLAYER = El jugador "%s" fue expulsado por estar AFK.
+AFK_KICK_REASON = Fuiste expulsado por estar AFK.
+AFK_ACCESS_GRANTED = Access granted. You will not be kicked from the server.
+
+[tr]
+AFK_GOT_BOMB = Bomba sende!
+AFK_TRANSFER_BOMB = Bomba "%s"'e gitti!
+AFK_TRANSFER_WARN = %i saniyen var oynamak icin, yoksa sehircilere dahil edileceksin!
+AFK_TRANSFER_PLAYER = "%s" sehircilere dahil edildi!
+AFK_KICK_WARN = %i icinde bir Team sec yoksa serverden atilacaksin!
+AFK_KICK_PLAYER = "%s" AFK diye serverden atildi!
+AFK_KICK_REASON = AFK'sin diye atildin!
+AFK_ACCESS_GRANTED = Access granted. You will not be kicked from the server.
+
+[pl]
+AFK_GOT_BOMB = Dostales bombe!
+AFK_TRANSFER_BOMB = Bomba przeniesiona do "%s"
+AFK_TRANSFER_WARN = Masz %i sekund zeby zaczac grac albo zostaniesz przeniesiony do obserwatorow.
+AFK_TRANSFER_PLAYER = Gracz "%s" was transfered to the spectators for being AFK.
+AFK_KICK_WARN = Masz %i sekund zeby dojsc do druzyny albo zostaniesz wyrzucony.
+AFK_KICK_PLAYER = Gracz "%s" zostal wyrzucony za nieaktywnosc.
+AFK_KICK_REASON = Zostales wyrzucony za nieaktywnosc.
+AFK_ACCESS_GRANTED = Access granted. You will not be kicked from the server.
+
+[ro]
+AFK_GOT_BOMB = Ai luat bomba!
+AFK_TRANSFER_BOMB = Bomba a fost transferata lui "%s"
+AFK_TRANSFER_WARN = Ai %i secunde sa te misti sau vei fi transferat la spectatori.
+AFK_TRANSFER_PLAYER = Jucatorul "%s" a fost transferat la spectatori pentru ca a fost AFK.
+AFK_KICK_WARN = Ai %i secunde sa intri intr-o echipa sau vei primi kick.
+AFK_TRANSFER_PLAYER = Jucatorul "%s" a primit kick pentru ca a fost AFK.
+AFK_KICK_REASON = Ai primit kick pentru ca ai fost AFK.
+AFK_ACCESS_GRANTED = Access granted. You will not be kicked from the server.
+
+[sv]
+AFK_GOT_BOMB = Du har bomben!
+AFK_TRANSFER_BOMB = Bomben 'o'verf'o'rd till "%s"
+AFK_TRANSFER_WARN = Du har %i sekunder att r'o'ra pa dig annars blir du 'o'verskickad till spectator.
+AFK_TRANSFER_PLAYER = "%s" blev 'o'verf'o'rd till spectator f'o'r att han/hon var AFK.
+AFK_KICK_WARN = Du har %i sekunder pa att r'o'ra dig annars blir du kickad.
+AFK_KICK_PLAYER = "%s" blev kickad f'o'r att ha varit AFK.
+AFK_KICK_REASON = Du blev kickad f'o'r att du var AFK.
+AFK_ACCESS_GRANTED = Access granted. You will not be kicked from the server.
+
+[bg]
+AFK_GOT_BOMB = Vie vzehte bombata!
+AFK_TRANSFER_BOMB = Bombata e transferirana kum "%s"
+AFK_TRANSFER_WARN = Imate %i sekundi da zapochnete da igraete ili shte budete transferiran kum nablyudatelite.
+AFK_TRANSFER_PLAYER = Igrachut "%s" beshe transferiran kum nablyudatelite, zashtoto e AFK.
+AFK_KICK_WARN = Vie imate %i sekundi da izberete otbor, inache shte budete izritan.
+AFK_KICK_PLAYER = Igrachut "%s" beshe izritan, zashtoto e AFK.
+AFK_KICK_REASON = Vie byahte izritan, zashtoto ste AFK.
+AFK_ACCESS_GRANTED = Access granted. You will not be kicked from the server.
+
+[ru]
+AFK_GOT_BOMB = У тебя бомба!
+AFK_TRANSFER_BOMB = Бомбой теперь владеет "%s"
+AFK_TRANSFER_WARN = У тебя %i секнд до того, как ты будешь перемещен за наблюдателей.
+AFK_TRANSFER_PLAYER = Игрок "%s" был перемещен за наблюдателей. Причина: AFK.
+AFK_KICK_WARN = У тебя %i секунд, чтобы выбрать команду. Иначе ты будешь кикнут.
+AFK_KICK_PLAYER = Игрок "%s" кикнут. Причина: AFK.
+AFK_KICK_REASON = Ты был кикнут. Причина: AFK.
+AFK_ACCESS_GRANTED = Access granted. You will not be kicked from the server.
+
+[lt]
+AFK_GOT_BOMB = Jus turite bomba!
+AFK_TRANSFER_BOMB = Bomba perduota zaidejui "%s"
+AFK_TRANSFER_WARN = Jeigu per %i sekundziu nepradesite zaisti, busite perkeltas i stebetojus.
+AFK_TRANSFER_PLAYER = Zaidejas "%s" perkeltas i stebetojus nes buvo AFK.
+AFK_KICK_WARN = Jeigu per %i sekundziu nepasirinksite komandos, busite ismestas.
+AFK_KICK_PLAYER = Zaidejas "%s" ismestas nes buvo AFK.
+AFK_KICK_REASON = Jus esate ismestas nes buvote AFK per ilgai.
+AFK_ACCESS_GRANTED = Access granted. You will not be kicked from the server.
+
+[nl]
+AFK_GOT_BOMB = Jij hebt de bom!
+AFK_TRANSFER_BOMB = Bom is overgeplaatst naar "%s"
+AFK_TRANSFER_WARN = Je hebt %i seconden om te gaan spelen of anders word je overgezet naar de spectators.
+AFK_TRANSFER_PLAYER = Speler "%s" is over gezet naar de spectators omdat hij AFK is.
+AFK_KICK_WARN = Je hebt precies %i seconden om een team te kiezen voordat je word gekickt.
+AFK_KICK_PLAYER = Speler "%s" is gekickt omdat die AFK is.
+AFK_KICK_REASON = Je bent gekickt omdat je AFK was.
+AFK_ACCESS_GRANTED = Access granted. You will not be kicked from the server.
+
+[sk]
+AFK_GOT_BOMB = Dostal si bombu!
+AFK_TRANSFER_BOMB = Bomba bola dana hracovi "%s"
+AFK_TRANSFER_WARN = Mas %i sekund aby si zacal hrat, inak budes presmerovany do spec.
+AFK_TRANSFER_PLAYER = Hrac "%s" bol presmerovany do spectate, pretoze je AFK.
+AFK_KICK_WARN = Mas %i sekund na to, aby si sa pripojil, inak dostanes KICK.
+AFK_KICK_PLAYER = Hrac "%s" dostal kick, lebo bol AFK.
+AFK_KICK_REASON = Dostal si kick, lebo si bol AFK.
+AFK_ACCESS_GRANTED = Access granted. You will not be kicked from the server.

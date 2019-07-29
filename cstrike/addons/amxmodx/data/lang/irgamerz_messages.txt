@@ -1,0 +1,42 @@
+[en]
+STEAMGIFT = ^4[iRGamerZ]^1 Become Admin and get a chance to win ^41^1 of ^45^3 Steam Counter-Strike!
+GIVEAWAY = ^4[iRGamerZ]^1 Be Admin For Free. Apply in irgamerz.com
+GO_SKINS = ^4[iRGamerZ]^1 Get your favourite skins on irgamerz.com!
+GO_KEYS = ^4[iRGamerZ]^1 Buy ^3keys^1 on irgamerz.com/casualgo/
+GO_SKINS = ^4[iRGamerZ]^1 Get your favourite skins on irgamerz.com!
+GO_GLOVES = ^4[iRGamerZ]^1 Download optional gloves on irgamerz.com!
+GO_TIP1 = ^4[iRGamerZ]^1 Type /trash to delete skins
+SV_DD1 = ^4[iR]^1 Save to your favourites :^3 cs.irgamerz.com:27000
+SV_CF1 = ^4[iR]^1 Save to your favourites :^3 cs.irgamerz.com:27001
+SV_CF2 = ^4[iR]^1 Save to your favourites :^3 cs.irgamerz.com:27002
+SV_CG1 = ^4[iR]^1 Save to your favourites :^3 cs.irgamerz.com:27003
+SV_CG2 = ^4[iR]^1 Save to your favourites :^3 cs.irgamerz.com:27004
+[de]
+[sr]
+[tr]
+[fr]
+[sv]
+[da]
+[pl]
+[nl]
+[es]
+[bp]
+STEAMGIFT = ^4[iRGamerZ]^1 Seja um administrador e concorra a ^41^1 de ^45^3 Counter-Strike Steam!
+GIVEAWAY = ^4[iRGamerZ]^1 Seja um de nossos administradores! ^3visite irgamerz.com
+GO_KEYS = ^4[iRGamerZ]^1 Compre ^chaves^1 em irgamerz.com/casualgo/
+GO_SKINS = ^4[iRGamerZ]^1 Obtenha suas skins favoritas em irgamerz.com!
+GO_GLOVES = ^4[iRGamerZ]^1 Baixe luvas opcionais em irgamerz.com!
+GO_TIP1 = ^4[iRGamerZ]^1 Digite /trash para deletar skins
+SV_DD1 = ^4[iR]^1 Salve em seus favoritos :^3 cs.irgamerz.com:27000
+SV_CF1 = ^4[iR]^1 Salve em seus favoritos :^3 cs.irgamerz.com:27001
+SV_CF2 = ^4[iR]^1 Salve em seus favoritos :^3 cs.irgamerz.com:27002
+SV_CG1 = ^4[iR]^1 Salve em seus favoritos :^3 cs.irgamerz.com:27003
+SV_CG2 = ^4[iR]^1 Salve em seus favoritos :^3 cs.irgamerz.com:27004
+[cz]
+[fi]
+[ls]
+[bg]
+[cn]
+[ro]
+[ru]
+[hu]
