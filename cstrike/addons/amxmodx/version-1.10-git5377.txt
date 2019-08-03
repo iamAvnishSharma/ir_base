@@ -1,3 +1,0 @@
-AmxModX [1.10.0-git5377]
-url: https://www.amxmodx.org/amxxdrop/1.10/amxmodx-1.10.0-git5377-base-linux.tar.gz
-url: https://www.amxmodx.org/amxxdrop/1.10/amxmodx-1.10.0-git5377-cstrike-linux.tar.gz
